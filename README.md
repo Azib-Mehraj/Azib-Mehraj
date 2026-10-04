@@ -1,4 +1,4 @@
-<!-- Replace: YOUR_USERNAME, Your Name, links, and the chart data below -->
+<!-- Profile -->
 
 <h1 align="center">Azib Mehraj</h1>
 
