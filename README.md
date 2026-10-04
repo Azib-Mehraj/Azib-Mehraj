@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/azib-mehraj"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%238b949e" height="22" alt="linkedin"/></a></a>
+  <a href="https://linkedin.com/in/azib-mehraj"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%238b949e" height="22" alt="linkedin"/></a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/paradox_._24"><img src="https://cdn.simpleicons.org/instagram/8b949e" height="22" alt="instagram"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:azibmehraj7.pers.com"><img src="https://cdn.simpleicons.org/gmail/8b949e" height="22" alt="email"/></a>
+  <a href="mailto:azibmehraj7.pers@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8b949e" height="22" alt="email"/></a>
   &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.simpleicons.org/googlechrome/8b949e" height="22" alt="website"/></a>
 </p>
